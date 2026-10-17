@@ -175,9 +175,6 @@ struct MenuView: View {
         HStack {
             VStack(alignment: .leading, spacing: 2) {
                 Text("Printquee").font(.headline)
-                Text("Drucken ohne veraltete Lizenzlogik")
-                    .font(.caption)
-                    .foregroundStyle(.secondary)
             }
             Spacer()
             Button { model.refresh() } label: {
@@ -226,6 +223,10 @@ struct MenuView: View {
             }
             .font(.caption2)
             .foregroundStyle(.secondary)
+            Link(destination: URL(string: "https://github.com/heratik/printquee/releases/latest")!) {
+                Label("Nach Updates suchen", systemImage: "arrow.down.circle")
+            }
+            .font(.caption2)
         }
         .padding(.horizontal, 14)
         .padding(.top, 8)
