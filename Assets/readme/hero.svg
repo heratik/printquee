@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Printquee</title>
+  <desc id="desc">Native macOS printer discovery and print queue utility for CUPS and Bonjour.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11134A"/>
+      <stop offset="0.55" stop-color="#1735C9"/>
+      <stop offset="1" stop-color="#22B9ED"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DCE7FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="380" rx="28" fill="#0B0D21"/>
+  <circle cx="1035" cy="-32" r="260" fill="#244CFF" opacity="0.42"/>
+  <circle cx="1130" cy="335" r="240" fill="#22B9ED" opacity="0.18"/>
+  <g transform="translate(68 58)">
+    <text x="0" y="30" fill="#A8C8FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700" letter-spacing="3">NATIVE MACOS PRINTING</text>
+    <text x="0" y="112" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="76" font-weight="750" letter-spacing="-3">Printquee</text>
+    <text x="4" y="160" fill="#D8E6FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="27">Discover printers. Check status. Print locally.</text>
+    <rect x="4" y="205" width="196" height="42" rx="21" fill="#FFFFFF" opacity="0.12"/>
+    <circle cx="29" cy="226" r="7" fill="#73E1FF"/>
+    <text x="49" y="233" fill="#FFFFFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">CUPS · Bonjour · SwiftUI</text>
+  </g>
+  <g transform="translate(792 64)">
+    <circle cx="170" cy="126" r="125" fill="none" stroke="#8DE9FF" stroke-width="18" opacity="0.85" stroke-linecap="round" stroke-dasharray="520 270" transform="rotate(-28 170 126)"/>
+    <path d="M278 216l42 15-31 29z" fill="#8DE9FF"/>
+    <rect x="73" y="110" width="194" height="122" rx="24" fill="url(#paper)"/>
+    <rect x="91" y="139" width="158" height="53" rx="12" fill="#172050"/>
+    <rect x="119" y="46" width="104" height="105" rx="12" fill="#FFFFFF"/>
+    <path d="M197 46v31c0 8 6 14 14 14h12" fill="none" stroke="#C8D6FF" stroke-width="8"/>
+    <rect x="111" y="197" width="118" height="16" rx="8" fill="#B7C8F0"/>
+    <circle cx="238" cy="128" r="8" fill="#23C7F2"/>
+    <rect x="101" y="250" width="138" height="33" rx="16" fill="#FFFFFF" opacity="0.92"/>
+    <text x="122" y="272" fill="#172050" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" font-weight="700">READY TO PRINT</text>
+  </g>
+</svg>
