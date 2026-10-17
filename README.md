@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Printquee — native macOS printer discovery and print queue utility">
+  <img src="./Assets/readme/hero.svg" width="100%" alt="Printquee — native macOS printer discovery and print queue utility">
 </p>
 
 <p align="center">
